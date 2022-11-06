@@ -12,4 +12,3 @@ This website is your source for all the latest moves in the Church Hockey Yahoo 
 
 </div>
 </div>
-</div>

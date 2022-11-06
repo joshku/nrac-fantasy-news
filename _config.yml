@@ -3,7 +3,7 @@ name: "Christian Fantasy Hockey League"
 title: "Christian Fantasy Hockey League"
 description: "Your one stop shop for all the latest CFHL news"
 logo: 'assets/images/logo.jpg'
-favicon: 'assets/images/logo.jpg'
+favicon: 'assets/images/favicon.ico'
 baseurl: ''
 mailchimp-list: ''
 include: ["_pages"]
