@@ -2,10 +2,10 @@
 layout: post
 title:  "Josh Ku of team Puck Norris trades Kane, Batherson and Kopitar"
 author: ricky
-categories: [ Jekyll, tutorial ]
+categories: [ trades ]
 image: assets/images/puck-norris-trade.jpeg
 featured: true
-hidden: true
+hidden: false
 ---
 
 Puck Norris made a trade! 

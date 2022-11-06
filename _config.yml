@@ -2,8 +2,8 @@
 name: "Christian Fantasy Hockey League"
 title: "Christian Fantasy Hockey League"
 description: "Your one stop shop for all the latest CFHL news"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo.jpg'
+favicon: 'assets/images/logo.jpg'
 baseurl: ''
 google_analytics: ''
 disqus: ''
@@ -16,7 +16,7 @@ authors:
   ricky:
     name: Ricky Tam
     display_name: Ricky Tam
-    avatar: assets/images/avatar.png
+    avatar: assets/images/ricky.jpg
     email: rickytam@cfhl.com
     web: 
     twitter: 
@@ -61,10 +61,6 @@ kramdown:
     block:
       line_numbers: true
 
-# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: ""
-adsense-data-ad-slot: ""
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
