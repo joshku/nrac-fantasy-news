@@ -5,8 +5,6 @@ description: "Your one stop shop for all the latest CFHL news"
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/logo.jpg'
 baseurl: ''
-google_analytics: ''
-disqus: ''
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
