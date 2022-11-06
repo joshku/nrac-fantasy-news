@@ -4,7 +4,7 @@ title:  "Josh Ku of team Puck Norris trades Kane, Batherson and Kopitar"
 author: ricky
 categories: [ trades ]
 image: assets/images/puck-norris-trade.jpeg
-featured: true
+featured: false
 hidden: false
 ---
 
