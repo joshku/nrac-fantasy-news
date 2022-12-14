@@ -3,7 +3,7 @@ layout: post
 title:  "GM Mak sends top Rangers for GM Ku's streaking Sabres"
 author: ricky
 categories: [ trades ]
-image: assets/images/puck-norris-krei-krei-trade.jpeg
+image: assets/images/dec-puck-norris-krei-krei-trade.jpeg
 featured: false
 hidden: false
 ---
